@@ -1029,11 +1029,7 @@ cat("   • distribucion_residuos_modelos.png - Distribución de errores\n")
 cat("   • comparacion_metricas_modelos.png - Métricas comparativas\n")
 cat("   • influencia_variables_modelo_final.png - Interpretación modelo\n")
 
-cat("\n🚀 PRÓXIMOS PASOS:\n")
-cat("   1. Aplicar modelo a análisis de ingresos históricos\n")
-cat("   2. Validar resultados con expertos en EPH\n")
-cat("   3. Documentar metodología en informe final\n")
-cat("   4. Considerar refinamientos del modelo\n")
+
 
 cat(rep("=", 80), "\n")
 
