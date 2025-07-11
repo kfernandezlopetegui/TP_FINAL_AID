@@ -321,9 +321,6 @@ cat("   • Impacto de la pandemia por trimestre\n")
 cat("   • Patrones estacionales pre y post crisis\n")
 cat("   • Ciclos económicos diferenciados\n")
 
-cat("\n📋 ARCHIVOS RECOMENDADOS:\n")
-cat("   1. comparacion_trimestre_3_pre_post_pandemia.png\n")
-cat("   2. comparacion_trimestre_1_pre_post_pandemia.png\n")
-cat("   3. comparacion_tres_periodos_trimestre_3.png\n")
+
 
 cat(rep("=", 60), "\n")
