@@ -313,10 +313,6 @@ cat("   • Gráficos:", rutas$graficos, "\n")
 cat("   • Tablas:", rutas$tablas, "\n")
 cat("   • Datos procesados:", rutas$datos_procesados, "\n")
 
-cat("\n🎯 PRÓXIMOS PASOS:\n")
-cat("   1. Revisar gráficos generados\n")
-cat("   2. Análisis multivariado (por sexo, edad, educación)\n")
-cat("   3. Análisis de ingresos\n")
-cat("   4. Modelo de imputación\n")
+
 
 cat(rep("=", 60), "\n")
