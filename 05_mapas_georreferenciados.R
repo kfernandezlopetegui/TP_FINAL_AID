@@ -298,11 +298,6 @@ cat("   • Carpeta:", rutas$mapas, "\n")
 cat("\n📊 PERÍODO ANALIZADO:\n")
 cat("   •", periodo_reciente$Periodo, "\n")
 
-cat("\n💡 CARACTERÍSTICAS:\n")
-cat("   • Mapas estilo INDEC con ggplot2\n")
-cat("   • Paletas de colores apropiadas\n")
-cat("   • Sin dependencias complejas\n")
-cat("   • Compatible con tu estructura\n")
 
 cat(rep("=", 60), "\n")
 
