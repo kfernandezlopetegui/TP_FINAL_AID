@@ -669,6 +669,3 @@ cat(rep("=", 80), "\n")
 print(grafico_importancia_v2)
 print(grafico_comparacion_versiones)
 
-# Mensaje de finalización
-cat("\n✨ ANÁLISIS COMPLETO DE MODELOS DE IMPUTACIÓN FINALIZADO ✨\n")
-cat("¡Modelo", modelo_recomendado, "listo para aplicación en análisis de ingresos!\n")
