@@ -381,15 +381,7 @@ cat("   • Evolución temporal por edad\n")
 cat("   • Evolución temporal por educación\n")
 cat("   • Comparación sexo-edad (2022-2024)\n")
 
-cat("\n💡 INSIGHTS DESTACADOS:\n")
-cat("   • Brechas de género en el mercado laboral\n")
-cat("   • Diferencias generacionales\n")
-cat("   • Retornos a la educación\n")
-cat("   • Interseccionalidad sexo-edad\n")
 
-cat("\n🎯 PRÓXIMOS PASOS SUGERIDOS:\n")
-cat("   1. Análisis de ingresos\n")
-cat("   2. Análisis sectorial\n")
-cat("   3. Modelo de imputación\n")
+
 
 cat(rep("=", 60), "\n")
