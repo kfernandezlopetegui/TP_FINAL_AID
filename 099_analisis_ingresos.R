@@ -376,16 +376,9 @@ if(nrow(tabla_anual_trimestral) > 1) {
   }
 }
 
-cat("\n📈 ARCHIVOS PARA INFORME:\n")
-cat("   • ingresos_deflactacion_trimestral.png\n")
-cat("   • tabla_ingresos_trimestral_final.csv\n")
-cat("   • ingresos_deflactacion_trimestral.csv (datos completos)\n")
 
-cat("\n🎯 METODOLOGÍA MEJORADA:\n")
-cat("   • Deflactación trimestre a trimestre (más precisa)\n")
-cat("   • IPC oficial INDEC por trimestre\n")
-cat("   • Base 2023 calculada como promedio anual\n")
-cat("   • Eliminación de aproximaciones anuales\n")
+
+c
 
 cat(rep("=", 70), "\n")
 
