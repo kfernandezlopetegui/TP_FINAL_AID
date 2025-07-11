@@ -384,16 +384,6 @@ cat("   3. Variables temporales CLAVE para precisión (año explica muchísimo)\
 cat("   4. Interacciones edad×educación FUNDAMENTALES\n")
 cat("   5. Optimización de variables CRÍTICA (+302% mejora)\n")
 
-cat("\n🎯 RECOMENDACIÓN FINAL:\n")
-cat("   ✅ USAR: Random Forest Mejorado para imputación operativa\n")
-cat("   ✅ DOCUMENTAR: Proceso completo desde simple hasta optimizado\n")
-cat("   ✅ JUSTIFICAR: Superioridad basada en métricas objetivas\n")
-
-cat("\n📁 ARCHIVOS PARA EL INFORME:\n")
-cat("   • comparacion_completa_todos_modelos.csv - Tabla maestra\n")
-cat("   • supuestos_por_modelo.csv - Validación estadística\n") 
-cat("   • mejoras_incrementales_modelos.csv - Progresión de mejoras\n")
-cat("   • interpretacion_metodologica_modelos.csv - Análisis cualitativo\n")
 
 cat(rep("=", 80), "\n")
 
