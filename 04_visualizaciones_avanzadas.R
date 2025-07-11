@@ -338,9 +338,6 @@ for(nombre in names(graficos_indec)) {
   cat("   •", nombre, "\n")
 }
 
-cat("\n🎯 GRÁFICOS RECOMENDADOS PARA EL INFORME:\n")
-cat("   1. tasas_laborales_indec_2020_2024_destacado.png\n")
-cat("   2. tasas_laborales_indec_2016_2019.png\n")
-cat("   3. comparacion_trimestral_anos_seleccionados.png\n")
+
 
 cat(rep("=", 60), "\n")
