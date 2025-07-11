@@ -418,11 +418,7 @@ cat("\n📁 UBICACIÓN:\n")
 cat("   • Mapas:", rutas$mapas, "\n")
 cat("   • Tablas:", rutas$tablas, "\n")
 
-cat("\n💡 CARACTERÍSTICAS:\n")
-cat("   • Estilo visual INDEC\n")
-cat("   • Diferenciación CABA/Partidos GBA\n")
-cat("   • Variación espacial realista\n")
-cat("   • Breaks categorizados apropiados\n")
+
 
 cat(rep("=", 60), "\n")
 
