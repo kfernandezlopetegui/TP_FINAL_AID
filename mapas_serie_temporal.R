@@ -358,19 +358,9 @@ for(periodo_nombre in names(datos_periodos)) {
   }
 }
 
-cat("\n📈 ARCHIVOS PARA TU INFORME:\n")
-cat("   • atlas_temporal_completo_2016_2020_2024.png (RECOMENDADO)\n")
-cat("   • comparativo_desocupacion_2016_2020_2024.png\n")
-cat("   • comparativo_empleo_2016_2020_2024.png\n")
-cat("   • comparativo_actividad_2016_2020_2024.png\n")
 
-cat("\n💡 INSIGHTS TEMPORALES:\n")
-if(length(datos_periodos) >= 2) {
-  cat("   • Comparación pre/post crisis (2016 vs 2020 vs 2024)\n")
-  cat("   • Evolución diferencial CABA vs Partidos GBA\n")
-  cat("   • Patrones espaciales temporales\n")
-  cat("   • Impacto de eventos socioeconómicos\n")
-}
+
+
 
 cat("\n📁 UBICACIÓN:\n")
 cat("   • Mapas:", rutas$mapas, "\n")
