@@ -527,20 +527,9 @@ cat("     • ingresos_por_sexo_final.csv - Análisis de género\n")
 cat("     • brecha_genero_final.csv - Evolución desigualdad género\n")
 cat("     • resumen_final_proyecto.csv - Síntesis ejecutiva\n")
 
-cat("\n🎯 PARA TU TRABAJO FINAL:\n")
-cat("   ✅ Serie histórica completa y consistente\n")
-cat("   ✅ Análisis demográfico exhaustivo\n")
-cat("   ✅ Identificación de tendencias y patrones\n")
-cat("   ✅ Quantificación de brechas sociales\n")
-cat("   ✅ Gráficos profesionales listos para presentar\n")
-cat("   ✅ Datos validados y metodología robusta\n")
 
-cat("\n🏆 LOGROS METODOLÓGICOS:\n")
-cat("   • Procesamiento exitoso de 8+ años de datos EPH\n")
-cat("   • Deflactación apropiada a pesos constantes 2023\n")
-cat("   • Filtros de calidad y eliminación de outliers\n")
-cat("   • Análisis multidimensional (tiempo, educación, género, edad)\n")
-cat("   • Código reproducible y documentado\n")
+
+
 
 cat(rep("=", 80), "\n")
 
