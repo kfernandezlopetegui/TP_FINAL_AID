@@ -380,9 +380,5 @@ if(nrow(datos_iniciales) > 0) {
       ifelse(cambio_desocupacion >= 0, "+", ""), round(cambio_desocupacion, 1), "pp\n")
 }
 
-cat("\n🎯 RECOMENDACIÓN PARA TU INFORME:\n")
-cat("   • Usa la versión vertical como portada principal\n")
-cat("   • La versión horizontal es perfecta para presentaciones\n")
-cat("   • Ambas tienen calidad para impresión profesional\n")
 
 cat(rep("=", 60), "\n")
