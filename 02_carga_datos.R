@@ -297,10 +297,7 @@ if(length(errores_carga) > 0) {
   cat("   • Períodos con errores:", paste(errores_carga, collapse = ", "), "\n")
 }
 
-cat("\n🎯 PRÓXIMOS PASOS:\n")
-cat("   1. Ejecutar: source('scripts/03_analisis_descriptivo.R')\n")
-cat("   2. Generar series de tasas laborales\n")
-cat("   3. Crear visualizaciones\n")
+
 
 cat("\n📁 DATOS DISPONIBLES EN MEMORIA:\n")
 cat("   • datos_gba: Lista con datos por período\n")
