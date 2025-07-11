@@ -339,16 +339,8 @@ cat("   • 3 gráficos separados por sexo (Actividad, Empleo, Desocupación)\n"
 cat("   • 2 heatmaps de desocupación (edad y sexo)\n")
 cat("   • 1 gráfico de evolución de brechas\n")
 
-cat("\n🎯 CARACTERÍSTICAS:\n")
-cat("   ✓ Gráficos separados por indicador (más claros)\n")
-cat("   ✓ Colores diferenciados por grupo\n")
-cat("   ✓ Heatmaps con valores numéricos\n")
-cat("   ✓ Análisis de brechas temporales\n")
 
-cat("\n📁 ARCHIVOS RECOMENDADOS PARA INFORME:\n")
-cat("   1. desocupacion_por_edad_separado.png\n")
-cat("   2. heatmap_desocupacion_edad.png\n")
-cat("   3. desocupacion_por_sexo_separado.png\n")
-cat("   4. evolucion_brechas_desocupacion.png\n")
+
+
 
 cat(rep("=", 60), "\n")
